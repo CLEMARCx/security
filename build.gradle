@@ -254,7 +254,7 @@ dependencies {
         exclude(group: 'jakarta.activation', module: 'jakarta.activation-api')
     }
     implementation 'com.github.wnameless:json-flattener:0.5.0'
-    implementation 'com.flipkart.zjsonpatch:zjsonpatch:0.4.4'
+    implementation 'com.flipkart.zjsonpatch:zjsonpatch:0.4.12'
     implementation 'org.apache.kafka:kafka-clients:3.0.1'
     implementation 'com.onelogin:java-saml:2.5.0'
     implementation 'com.onelogin:java-saml-core:2.5.0'
